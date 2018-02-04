@@ -29,25 +29,25 @@ tags:
 </div>
 
 <div>
-  <pre class="striped:false nums:false lang:default highlight:0 decode:true">+--------------------------------------+         +----------------------------+         +---------------------+
+{% codeblock line_number:false %}
++--------------------------------------+         +----------------------------+         +---------------------+
 | QueryType                            |         | ReservationType            |         | HotelType           |
 +--------------------------------------+         +----------------------------+         +---------------------+
 |                                      |         |                            |         |                     |
-| reservationList: [ReservationType!]! +-------&gt; | hotelId: ID!               |         | hotelName: String!  |
+| reservationList: [ReservationType!]! +-------> | hotelId: ID!               |         | hotelName: String!  |
 |                                      |         | checkIn: String!           |         | fullAddress: String |
 +--------------------------------------+         | checkOut: String!          |         | starRating: Int!    |
-                                                 | hotelDetails: HotelType!   +-------&gt; |                     |
+                                                 | hotelDetails: HotelType!   +-------> |                     |
                                                  | status: ReservationStatus! |         +---------------------+
                                                  |                            |
-                                                 +----------------------------+</pre>
+                                                 +----------------------------+
+{% endcodeblock %}
 
   <p>
     GraphQL models your data as a graph but it still needs entry points to that graph. Those entry points are the queries defined in the QueryType, that is the root of all the queries.<br /> In this example, it is defined only one query named &#8220;reservationList&#8221; that returns a list of &#8220;ReservationType&#8221;. In turn, ReservationType describes a hotel reservation and HotelType describe a hotel.
   </p>
 
-  <h2>
-    GraphQL Schema definition
-  </h2>
+## GraphQL Schema definition
 
   <p>
     Using the &#8220;<em>GraphQL schema language</em>&#8220;, explained in the <a href="http://graphql.org/learn/schema/">official GraphQL website</a>, our <strong>data model</strong> can be described in this way:
@@ -116,7 +116,8 @@ enum ReservationStatus {
 </div>
 
 <div>
-  <pre class="lang:default highlight:0 decode:true">{
+```
+{
   reservationsList(userId: 12345) {
     hotelId
     checkIn
@@ -128,15 +129,14 @@ enum ReservationStatus {
     }
     status
   }
-}</pre>
+}
+```
 
   <p>
     This query is sent from the client to the server in order to request the list of hotel ids in which the user number 12345 has made a reservation. Once the server receives this query, it is validated against the defined schema and then it is executed.
   </p>
 
-  <h2>
-    Response example
-  </h2>
+## Response example
 
   <p>
     The generated response is JSON with the exact shape of the request:
@@ -144,7 +144,8 @@ enum ReservationStatus {
 </div>
 
 <div>
-  <pre class="lang:default decode:true">{
+```
+{
   "data": {
     "reservationsList": [
       {
@@ -160,7 +161,8 @@ enum ReservationStatus {
       }
     ]
   }
-}</pre>
+}
+```
 </div>
 
 <div>
@@ -195,16 +197,17 @@ enum ReservationStatus {
 ## Introspection
 
 <div>
-  A really cool feature of a GraphQL service is the <a href="http://graphql.org/learn/introspection/">ability to introspect</a> itself. Every GraphQL server has a special schema field at the query root named &#8220;__schema&#8221;:
+  A really cool feature of a GraphQL service is the <a href="http://graphql.org/learn/introspection/">ability to introspect</a> itself. Every GraphQL server has a special schema field at the query root named __\_\_schema__:
 </div>
 
 <div>
-  <pre class="lang:default decode:true">{
+```
+{
   __schema {
     ...
   }
-}</pre>
-
+}
+```
   <p>
     Using that field, the service can expose the definition of every object and every field it can provide. This leads to really nice features like:
   </p>
