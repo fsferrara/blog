@@ -1,5 +1,5 @@
 ---
-title: running-containers-with-docker
+title: Running containers with Docker
 date: 2015-04-03 12:00:00
 categories:
   - programming
