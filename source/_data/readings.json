@@ -1,0 +1,12 @@
+[
+  {
+     "name":"Learn GraphQL",
+     "url":"http://graphql.org/learn/",
+     "desc":"A fast & coincise introduction to GraphQL"
+  },
+  {
+     "name":"Solve for Happy",
+     "url":"http://www.solveforhappy.com/",
+     "desc":"The equation of happiness"
+  }
+]
