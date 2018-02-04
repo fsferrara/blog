@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -28,10 +29,10 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-45189328-2
 gauges_analytics:
-favicon: /favicon.png
-twitter:
-google_plus:
+favicon: /favicon.ico
+twitter: http://twitter.com/fsferrara
+google_plus: http://plus.google.com/+SaverioFerrara
 fb_admins:
 fb_app_id:
