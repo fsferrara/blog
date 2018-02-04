@@ -6,13 +6,11 @@ date: 2018-02-04 13:15:05
 my name is Francesco Saverio Ferrara and I'm a Software Engineer and a passionate software developer.
 Addicted to the Linux operating system, I love learning new things and working with all the open source technologies.
 
-{% fa linkedin %}xxx
-
-[<i class="fa fa-2x fa-linkedin" aria-hidden="true"></i>](http://www.linkedin.com/in/fsferrara) &nbsp;
-[<i class="fa fa-2x fa-twitter" aria-hidden="true"></i>](http://twitter.com/fsferrara) &nbsp;
-[<i class="fa fa-2x fa-google-plus" aria-hidden="true"></i>](http://plus.google.com/+SaverioFerrara) &nbsp;
-[<i class="fa fa-2x fa-github" aria-hidden="true"></i>](http://github.com/fsferrara) &nbsp;
-[<i class="fa fa-2x fa-address-card-o" aria-hidden="true"></i>](http://about.me/fsferrara) &nbsp;
+[<i class="fa fa-linkedin" aria-hidden="true"></i>](http://www.linkedin.com/in/fsferrara) &nbsp;
+[<i class="fa fa-twitter" aria-hidden="true"></i>](http://twitter.com/fsferrara) &nbsp;
+[<i class="fa fa-google-plus" aria-hidden="true"></i>](http://plus.google.com/+SaverioFerrara) &nbsp;
+[<i class="fa fa-github" aria-hidden="true"></i>](http://github.com/fsferrara) &nbsp;
+[<i class="fa fa-address-card-o" aria-hidden="true"></i>](http://about.me/fsferrara) &nbsp;
 
 **Want to know more?**
 
