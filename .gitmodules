@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-strata"]
+	path = themes/hexo-theme-strata
+	url = https://github.com/fsferrara/hexo-theme-strata.git
