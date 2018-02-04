@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: Saverio Ferrara
+subtitle: ...another Software Engineer blog!
+description: Saverio's blog
+author: Saverio Ferrara
+language: en
+timezone: Europe/Rome
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://fsferrara.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -41,8 +41,8 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
-  
+  tab_replace: true
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -51,9 +51,9 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
-default_category: uncategorized
+default_category: thoughts
 category_map:
 tag_map:
 
@@ -77,4 +77,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/fsferrara/fsferrara.github.io.git
+  branch: master
