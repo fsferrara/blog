@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2018-02-04 13:15:05
+comments: false
 ---
 **Hello,**  
 my name is Francesco Saverio Ferrara and I'm a Software Engineer and a passionate software developer.
