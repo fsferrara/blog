@@ -11,10 +11,7 @@ During this project, I wrote my first Joomla component. It allows the management
 
 {% img center /images/timeline/tradurreantico.jpg 250 250 'TradurreAntico' %}
 
-tags: #html #css #mysql #joomla! #php  
 _Position_: Freelancer for [TradurreAntico.it](http://www.tradurreantico.it/ "TradurreAntico.it")  
-_Technologies_: PHP, HTML, CSS, Joomla!, Joomla! component writing, MySql  
-May 2011  
-_Avellino Area_, Italy
+_Technologies_: PHP, HTML, CSS, Joomla!, Joomla! component writing, MySql
 
 [<i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;www.tradurreantico.it](http://www.tradurreantico.it/)

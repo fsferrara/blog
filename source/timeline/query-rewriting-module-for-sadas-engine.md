@@ -13,11 +13,8 @@ As far as I know Advanced Systems is the only Italian company in this field and 
 
 {% img center /images/timeline/sadas_db.jpg 250 250 'SADAS DBMS' %}
 
-tags: #c++ #dbms  
 _Position_: Trainee at [Advanced Systems](http://www.advancedsystems.it/ "Advanced Systems")  
-_Technologies_: C++  
-April 2010 – February 2011  
-_Naples Area_, Italy
+_Technologies_: C++
 
 [<i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;www.sadasdb.com](http://www.sadasdb.com/)  
 [<i class="fa fa-download" aria-hidden="true"></i>&nbsp;download thesis](/downloads/master_query_rewrinting.pdf)

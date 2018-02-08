@@ -7,9 +7,6 @@ I realized the **Goku Script** when I was just a kid. It was a great success, an
 
 {% img center /images/timeline/goku_script_me.jpg 250 250 'Goku Script' %}
 
-tags: #irc #mirc #mirc-script  
-_Technologies_: mIRC scripting language  
-September 2000 – July 2001  
-_Avellino Area_, Italy
+_Technologies_: mIRC scripting language
 
 [<i class="fa fa-download" aria-hidden="true"></i> download](/downloads/goku4.zip)

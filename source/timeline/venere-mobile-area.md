@@ -11,13 +11,10 @@ In the end I designed and implemented a prototype of a new Venere App based on H
 
 {% img center /images/timeline/venere-mobile-apps.png 250 250 'Venere Mobile Apps' %}
 
-tags: #android #cordova #hybrid-app #mobile #java  
 _Position_: Software Dev Engineer I at [Venere.com](http://www.venere.com/ "Venere.com")  
 **Technologies**  
 _Front-end_: Javascript, HTML, CSS, RESTful web services, requirejs, Backbone, handlebars  
 _Apps_ Java, ADK, Cordova  
-_Back-end_: PHP, Javascript/Node.js, Parse  
-March 2014 – June 2015  
-_Rome Area_, Italy
+_Back-end_: PHP, Javascript/Node.js, Parse
 
 [<i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;www.venere.com](http://www.venere.com/)

@@ -13,10 +13,7 @@ I also worked to the porting of the entire front-end layer from Python/Zope tech
 
 {% img center /images/timeline/e-matching-it_2008.jpg 250 250 'e-Matching' %}
 
-tags: #cluster #java #jboss #jboss-seam #postgresql #python #redhat #zope  
 _Position_: Consultant at [Reply](http://www.reply.it/ "Reply")  
-_Technologies_: Java, JBoss, JBoss Seam Framework, RedHat Linux cluster, High-reliability PostgreSQL cluster, Python, Zope.  
-March 2008 – September 2008  
-_Milan Area_, Italy
+_Technologies_: Java, JBoss, JBoss Seam Framework, RedHat Linux cluster, High-reliability PostgreSQL cluster, Python, Zope.
 
 [<i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;www.e-matching.it](http://www.e-matching.it)

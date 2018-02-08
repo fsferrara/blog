@@ -15,13 +15,10 @@ I was really lucky to join this experiment and look after such an interesting ac
 
 {% img center /images/timeline/mpv955.png 250 250 'MPV955 Device Driver' %}
 
-tags: #c #driver #java #swing #lynxos #unix  
 _Position_: Trainee at [VIRGO Lab (INFN), Department of Physical Sciences](https://www.virgo.infn.it/ "Virgo INFN")  
 **Technologies**  
 _Driver_: C, Shell scripting.  
-_User Interface_: Java, Swing.  
-October 2005 – May 2006  
-_Naples Area_, Italy
+_User Interface_: Java, Swing.
 
 [<i class="fa fa-github" aria-hidden="true"></i>&nbsp;https://github.com/fsferrara/mpv955](https://github.com/fsferrara/mpv955)  
 [<i class="fa fa-download" aria-hidden="true"></i>&nbsp;download thesis](/downloads/bachelor_mpv955.pdf)

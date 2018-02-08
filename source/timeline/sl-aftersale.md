@@ -11,10 +11,7 @@ During this project I wrote my first WordPress plugin. It allows the management 
 
 {% img center /images/timeline/slaftersale.jpg 250 250 'SL AfterSale' %}
 
-tags: #html #css #mysql #php #wordpress  
 _Position_: Freelancer for [SL AfterSale](http://www.slaftersale.com/ "SL AfterSale")  
-_Technologies_: PHP, HTML, CSS, WordPress, WordPress plugin writing, MySql  
-May 2011  
-_Avellino Area_, Italy
+_Technologies_: PHP, HTML, CSS, WordPress, WordPress plugin writing, MySql
 
 [<i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;www.slaftersale.com](http://www.slaftersale.com/)

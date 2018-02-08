@@ -4,8 +4,7 @@ date: 2018-02-04 13:15:05
 comments: false
 ---
 **Hello,**  
-my name is Francesco Saverio Ferrara and I'm a Software Engineer and a passionate software developer.
-Addicted to the Linux operating system, I love learning new things and working with all the open source technologies.
+my name is Francesco Saverio Ferrara and I'm a software engineer and a passionate software developer. Addicted to the Linux operating system, I love learning new things and working with all the open source technologies.
 
 **Want to know more?**
 
