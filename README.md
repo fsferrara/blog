@@ -26,3 +26,55 @@ git clone --recursive git@github.com:fsferrara/blog.git
 ```
 
 At the moment, the only submodules is the [theme](https://github.com/fsferrara/cactus-dark). It's a submodule since I [forked](https://github.com/probberechts/hexo-theme-cactus) it from a [guy](https://github.com/probberechts).
+
+
+### Installing Hexo
+
+To install Hexo just type `npm install hexo-cli -g`, and then you'll have the hexo cli.
+Here is the usage help for hexo **3.7.1**.
+
+```
+Usage: hexo <command>
+
+Commands:
+  clean     Remove generated files and cache.
+  config    Get or set configurations.
+  deploy    Deploy your website.
+  generate  Generate static files.
+  help      Get help on a command.
+  init      Create a new Hexo folder.
+  list      List the information of the site
+  migrate   Migrate your site from other system to Hexo.
+  new       Create a new post.
+  publish   Moves a draft post from _drafts to _posts folder.
+  render    Render files with renderer plugins.
+  server    Start the server.
+  version   Display version information.
+
+Global Options:
+  --config  Specify config file instead of using _config.yml
+  --cwd     Specify the CWD
+  --debug   Display all verbose messages in the terminal
+  --draft   Display draft posts
+  --safe    Disable all plugins and scripts
+  --silent  Hide output on console
+
+For more help, you can use 'hexo help [command]' for the detailed information
+or you can check the docs: http://hexo.io/docs/
+```
+
+## Deploy to github pages
+
+The deploy instructions are located in the `_config.yml`.
+In order to deploy to github pages, I have this configuration:
+
+```
+deploy:
+  type: git
+  repo: https://github.com/fsferrara/fsferrara.github.io.git
+  branch: master
+```
+
+where `https://github.com/fsferrara/fsferrara.github.io.git` is the repository behind [my blog](https://fsferrara.github.io/).
+
+To issue a deploy use `hexo generate && hexo deploy`.
