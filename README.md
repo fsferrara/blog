@@ -78,3 +78,15 @@ deploy:
 where `https://github.com/fsferrara/fsferrara.github.io.git` is the repository behind [my blog](https://fsferrara.github.io/).
 
 To issue a deploy use `hexo generate && hexo deploy`.
+
+## Synching the theme
+
+cd into `themes/cactus-dark` folder and then:
+
+```
+git checkout master
+git pull
+git remote add upstream https://github.com/probberechts/hexo-theme-cactus.git
+git fetch upstream
+
+```
