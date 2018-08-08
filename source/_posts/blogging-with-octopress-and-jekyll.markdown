@@ -9,6 +9,7 @@ tags:
   - ruby
   - jekyll
   - octopress
+  - hexo
 ---
 
 Nowadays, most blogs are powered by _Wordpress_. I am a Wordpress users too and I have to admit it is really a great for blogs.  
