@@ -17,6 +17,9 @@ _Jekyll_ is a static site generator. With it I can generate all my blog pages in
 
 <!--more-->
 
+**Update** - Actually I used Octopress for few days. Then I moved to a very similar static site generator: [Hexo](https://hexo.io/). Hexo is easier to use and quite compatible with the Jekyll blog format. Additionally, Hexo runs with nodejs :-)  
+Have a look at the [source code with instructions](https://github.com/fsferrara/blog).
+
 ## Prepare the Jekyll environment
 
 The first drawback is that you need to set-up a local dev environment in order to be able to generate a static website on your machine. For Jekyll/Octopress you need several tool: git, ruby with bundler, and a javascript runtime.
