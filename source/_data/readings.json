@@ -1,8 +1,8 @@
 [
   {
-     "name":"Learn GraphQL",
-     "url":"http://graphql.org/learn/",
-     "desc":"A fast & concise introduction to GraphQL"
+     "name":"Pros and Cons of GraphQL",
+     "url":"https://medium.com/hotels-com-technology/pros-and-cons-of-graphql-2ec9104c74f2",
+     "desc":"A fast & concise evaluation of GraphQL over REST"
   },
   {
      "name":"Solve for Happy",
