@@ -6,6 +6,8 @@ comments: false
 
 # Da REST a GraphQL in 90 minuti
 
+_21 Dicembre 2017, Hotels.com Technology Rome Office_
+
 {% img center /images/talks/da-rest-a-graphql-in-90-minuti.jpg 1024 576 'Da REST a GraphQL in 90 minuti' %}
 
 Il team HCOM technology di Roma vorrebbe condividere con voi le esperienze fatte con GraphQL, e discutere su come questo linguaggio possa essere favorito rispetto all'ormai consueto paradigma REST.
