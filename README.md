@@ -88,5 +88,6 @@ git checkout master
 git pull
 git remote add upstream https://github.com/probberechts/hexo-theme-cactus.git
 git fetch upstream
-
+git merge upstream/master
+git push
 ```
