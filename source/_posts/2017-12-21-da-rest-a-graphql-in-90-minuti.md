@@ -1,7 +1,11 @@
 ---
 title: Da REST a GraphQL in 90 minuti
 date: 2017-12-21 19:15:00
-comments: false
+categories:
+  - talks
+tags:
+  - talks
+  - meetup
 ---
 
 # Da REST a GraphQL in 90 minuti
