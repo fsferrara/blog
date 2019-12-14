@@ -1,6 +1,6 @@
 ---
 title: Aspect Oriented Programming with Spring and AspectJ
-date: 2015-12-18 12:00:00
+date: 2015-12-18
 categories:
   - programming
 tags:
