@@ -25,7 +25,7 @@ Remember to clone with:
 git clone --recursive git@github.com:fsferrara/blog.git
 ```
 
-At the moment, the only submodules is the [theme](https://github.com/fsferrara/cactus-dark). It's a submodule since I [forked](https://github.com/probberechts/hexo-theme-cactus) it from a [guy](https://github.com/probberechts).
+At the moment, the only submodules is the [theme](https://github.com/fsferrara/hexo-theme-next).
 
 
 ### Installing Hexo
@@ -81,12 +81,12 @@ To issue a deploy use `hexo generate && hexo deploy`.
 
 ## Synching the theme
 
-cd into `themes/cactus-dark` folder and then:
+cd into `themes/next` folder and then:
 
 ```
 git checkout master
 git pull
-git remote add upstream https://github.com/probberechts/hexo-theme-cactus.git
+git remote add upstream https://github.com/theme-next/hexo-theme-next.git
 git fetch upstream
 git merge upstream/master
 git push
