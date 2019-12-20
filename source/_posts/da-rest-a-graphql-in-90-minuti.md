@@ -18,6 +18,8 @@ Il team HCOM technology di Roma vorrebbe condividere con voi le esperienze fatte
 
 Durante l'incontro faremo una introduzione ai principi base di GraphQL, parleremo di come si definisce uno schema per descrivere i dati e di come è poi possibile eseguire delle interrogazioni su di esso. Subito dopo seguirà una parte pratica durante la quale implementeremo un servizio GraphQL utilizzando l'implementazione javascript.
 
+<!--more-->
+
 ## Cosa è GraphQL?
 
 GraphQL è una specifica di query language che consente di descrivere la struttura dei dati nelle applicazioni moderne attraverso uno schema ben definito. Essendo una specifica, puoi utilizzare GraphQL con qualsiasi linguaggio di programmazione e, ad oggi, già sono presenti molteplici implementazioni.
