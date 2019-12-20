@@ -14,6 +14,8 @@ Corso di Laurea in Informatica_
 
 Il materiale è relativo ad un seminario tenuto per il corso di _Sistemi Operativi_.
 
+<!--more-->
+
 ## Argomenti Trattati
 
 * Supporto Multi Piattaforma Linux Internals
