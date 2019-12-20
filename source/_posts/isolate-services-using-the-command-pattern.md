@@ -46,7 +46,7 @@ Let's analyze a simple java implementation with [Hystrix](https://github.com/Net
 
 ## The External Service
 
-```
+{% codeblock lang:java %}
 package com.fsferrara.hystrix.commandpattern.service.concrete;
 
 import com.fsferrara.hystrix.commandpattern.service.dto.ExternalServiceRequest;
@@ -92,7 +92,7 @@ public class ExternalService {
         return greeting.toString();
     }
 }
-```
+{% endcodeblock %}
 
 If you carefully look at this implementation, it is obvious that it is a simple "hello-world"-style service. The classes `ExternalServiceRequest` and `ExternalServiceResponse` are simple DTOs defining respectively the request and the response of this fake service.  
 It is a singleton and, besides that, we have defined nothing in particular here. Let's imagine that the `action` method would actually hit an external service with an HTTP call and, for this reason, we need to access this method in a controlled way (i.e. through a command).
@@ -101,7 +101,7 @@ It is a singleton and, besides that, we have defined nothing in particular here.
 
 By extending the `HystrixCommand` class, we can define an hystrix-based command:
 
-```
+{% codeblock lang:java %}
 package com.fsferrara.hystrix.commandpattern.service;
 
 import com.fsferrara.hystrix.commandpattern.service.concrete.ExternalService;
@@ -120,15 +120,14 @@ public class ExternalServiceCommand extends HystrixCommand<ExternalServiceRespon
         super(Setter.withGroupKey(HystrixCommandGroupKey.Factory.asKey(HYSTRIX_COMMAND_GROUP_KEY)));
         this.request = request;
     }
-
+    
     @Override
     protected ExternalServiceResponse run() throws Exception {
         ExternalService service = ExternalService.getInstance();
         return service.action(request);
     }
 }
-
-```
+{% endcodeblock %}
 
 As you can see, the command is a sort of proxy for the external service. But it knows the state, that is contained in the Hystrix group with key `HYSTRIX_COMMAND_GROUP_KEY`.
 The logic that is needed to actually hit the ExternalService is contained in the `run` method.
@@ -137,7 +136,7 @@ The logic that is needed to actually hit the ExternalService is contained in the
 
 In this specific implementation, I decided to implement the client as a daemon thread that will run forever (or better until Ctrl+C) and hit the external service "command" every `millis` milliseconds:
 
-```
+{% codeblock lang:java %}
 package com.fsferrara.hystrix.commandpattern;
 
 import com.fsferrara.hystrix.commandpattern.service.ExternalServiceCommand;
@@ -175,7 +174,7 @@ class ExternalServiceClient {
         System.out.println(response.getGreeting());
     }
 }
-```
+{% endcodeblock %}
 
 Pay attention that the client is calling the `execute()` method that is implemented in the `HystrixCommand` superclass. That is because Hystrix, once defined a command, allows to call the ExternalService with different modalities: execute, observe, queue, and so on. All these modalities are well explained in the Hystrix documentation.
 
@@ -189,7 +188,7 @@ The dedicated Hystrix group is able to give us information such as:
 
 Here is a very basic implementation:
 
-```
+{% codeblock lang:java %}
 ...
     private void monitor() {
         HystrixCommandMetrics externalServiceCommandMetrics = HystrixCommandMetrics.getInstance(HystrixCommandKey.Factory.asKey(ExternalServiceCommand.HYSTRIX_COMMAND_GROUP_KEY));
@@ -206,7 +205,7 @@ Here is a very basic implementation:
         System.out.println("externalServiceCommandMetrics: " + metrics.toString());
     }
 ...
-```
+{% endcodeblock %}
 
 # Other hystrix features
 
