@@ -167,7 +167,7 @@ theme_config:
     icon:
       # Icon name in Font Awesome. See: https://fontawesome.com/v4.7.0/icons/
       # `heart` is recommended with animation in red (#ff0000).
-      name: user
+      name: heart
       # If you want to animate the icon, set it to true.
       animated: false
       # Change the color of icon, using Hex Code.
@@ -942,7 +942,7 @@ theme_config:
   # Use velocity to animate everything.
   # For more information: http://velocityjs.org
   motion:
-    enable: true
+    enable: false
     async: false
     transition:
       # Transition variants:
