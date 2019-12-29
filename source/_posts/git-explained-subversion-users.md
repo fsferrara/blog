@@ -3,7 +3,6 @@ title: GIT explained for Subversion users
 date: 2013-11-03 12:00:00
 categories:
   - programming
-  - system administration
 tags:
   - git
   - subversion

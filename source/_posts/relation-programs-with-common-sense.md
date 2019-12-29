@@ -3,7 +3,6 @@ title: Relation - Programs With Common Sense
 date: 2007-09-27 12:00:00
 categories:
   - history
-  - thoughts
 tags:
   - computer-science
   - artificial-intelligence

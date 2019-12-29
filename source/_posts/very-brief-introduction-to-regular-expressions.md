@@ -3,7 +3,6 @@ title: Very brief introduction to Regular Expressions
 date: 2009-10-25 12:00:00
 categories:
   - programming
-  - system administration
 tags:
   - regex
   - regular-expression

@@ -2,8 +2,7 @@
 title: "Blogging with Octopress and Jekyll"
 date: 2018-01-05 12:00:00
 categories:
-  - thoughts
-  - programming
+  - blog
 tags:
   - blog
   - ruby

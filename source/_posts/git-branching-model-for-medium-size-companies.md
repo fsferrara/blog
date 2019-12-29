@@ -3,7 +3,6 @@ title: A GIT branching model for medium-size companies
 date: 2013-11-15 12:00:00
 categories:
   - programming
-  - system administration
 tags:
   - branching-model
   - collaboration
@@ -14,8 +13,6 @@ tags:
 This article explains how a medium size company, which has several teams, can adopt GIT for the source code management. As a software configuration management, GIT serves two different functions. The first one is the management support for controlling changes to software products, and the second one is merely development support for coordinating file changes among product developers. In particular here I want to talk about the branching model.
 
 <!--more-->
-
-
 
 The following branching model is for a single product, whereas only the last product version is maintained (i.e. a web site or a mobile app). Additionally this branching model support an agile process model, where a new product version is released (hopefully) at the end of each team sprint.
 

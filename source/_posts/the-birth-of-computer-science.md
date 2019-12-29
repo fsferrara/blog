@@ -3,7 +3,6 @@ title: The Birth of Computer Science
 date: 2013-10-20 12:00:00
 categories:
   - history
-  - thoughts
 tags:
   - computer-science
   - frege
