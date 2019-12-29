@@ -1,6 +1,6 @@
 ---
 title: Relation - Intelligence without representation
-date: 2007-09-08 12:00:00
+date: 2007-09-08
 categories:
   - history
 tags:

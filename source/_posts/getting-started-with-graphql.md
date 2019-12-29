@@ -1,6 +1,6 @@
 ---
 title: Getting Started With GraphQL
-date: 2017-12-10 12:00:00
+date: 2017-12-10
 categories:
   - programming
 tags:

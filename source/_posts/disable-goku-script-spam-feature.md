@@ -1,6 +1,6 @@
 ---
 title: Disable Goku Script spam feature
-date: 2009-07-28 12:00:00
+date: 2009-07-28
 categories:
   - internet
 tags:

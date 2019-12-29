@@ -1,6 +1,6 @@
 ---
 title: Early development of Artificial Intelligence
-date: 2013-10-20 12:00:00
+date: 2013-10-20
 categories:
   - history
 tags:

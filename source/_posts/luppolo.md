@@ -1,6 +1,6 @@
 ---
 title: Luppolo the Drinking Game
-date: 2013-10-21 12:00:00
+date: 2013-10-21
 categories:
   - board games
 tags:

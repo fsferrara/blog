@@ -1,6 +1,6 @@
 ---
 title: Hello everyone!
-date: 1983-09-20 12:00:00
+date: 1983-09-20
 categories:
   - thoughts
 ---

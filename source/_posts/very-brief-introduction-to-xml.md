@@ -1,6 +1,6 @@
 ---
 title: Very brief introduction to XML
-date: 2009-10-26 12:00:00
+date: 2009-10-26
 categories:
   - programming
 tags:

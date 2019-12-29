@@ -1,6 +1,6 @@
 ---
 title: Introduction to debugging with GNU GDB
-date: 2009-06-05 12:00:00
+date: 2009-06-05
 categories:
   - programming
 tags:

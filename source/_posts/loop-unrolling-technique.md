@@ -1,6 +1,6 @@
 ---
 title: Loop-Unrolling Technique
-date: 2009-05-20 12:00:00
+date: 2009-05-20
 categories:
   - programming
 tags:

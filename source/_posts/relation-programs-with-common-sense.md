@@ -1,6 +1,6 @@
 ---
 title: Relation - Programs With Common Sense
-date: 2007-09-27 12:00:00
+date: 2007-09-27
 categories:
   - history
 tags:

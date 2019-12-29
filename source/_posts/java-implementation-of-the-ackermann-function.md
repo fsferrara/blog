@@ -1,6 +1,6 @@
 ---
 title: Java implementation of the Ackermann function
-date: 2009-11-29 12:00:00
+date: 2009-11-29
 categories:
   - programming
 tags:

@@ -1,6 +1,6 @@
 ---
 title: C implementation of Quicksort algorithm
-date: 2009-07-07 12:00:00
+date: 2009-07-07
 categories:
   - programming
 tags:

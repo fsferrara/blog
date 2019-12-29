@@ -1,6 +1,6 @@
 ---
 title: ISDN Technology
-date: 2010-01-09 12:00:00
+date: 2010-01-09
 categories:
   - system administration
 tags:

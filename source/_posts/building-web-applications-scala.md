@@ -1,6 +1,6 @@
 ---
 title: Building web applications with Scala
-date: 2013-11-22 12:00:00
+date: 2013-11-22
 categories:
   - programming
 tags:

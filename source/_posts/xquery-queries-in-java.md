@@ -1,6 +1,6 @@
 ---
 title: XQuery queries in Java
-date: 2009-10-29 12:00:00
+date: 2009-10-29
 categories:
   - programming
 tags:

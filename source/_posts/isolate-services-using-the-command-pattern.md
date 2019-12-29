@@ -1,6 +1,6 @@
 ---
 title: "Isolate services using the command pattern"
-date: 2018-08-26 12:00:00
+date: 2018-08-26
 categories:
   - programming
 tags:

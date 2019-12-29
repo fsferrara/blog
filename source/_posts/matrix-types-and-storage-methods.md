@@ -1,6 +1,6 @@
 ---
 title: Matrix types and Storage methods
-date: 2009-09-02 12:00:00
+date: 2009-09-02
 categories:
   - programming
 tags:

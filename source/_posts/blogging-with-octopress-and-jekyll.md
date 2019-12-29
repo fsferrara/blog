@@ -1,6 +1,6 @@
 ---
 title: "Blogging with Octopress and Jekyll"
-date: 2018-01-05 12:00:00
+date: 2018-01-05
 categories:
   - blog
 tags:

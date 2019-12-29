@@ -1,6 +1,6 @@
 ---
 title: Planning a Cluster for Hadoop BigData
-date: 2014-02-21 12:00:00
+date: 2014-02-21
 categories:
   - system administration
 tags:

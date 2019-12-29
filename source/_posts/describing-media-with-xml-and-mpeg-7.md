@@ -1,6 +1,6 @@
 ---
 title: Describing media with XML and MPEG-7
-date: 2009-10-27 12:00:00
+date: 2009-10-27
 categories:
   - programming
 tags:

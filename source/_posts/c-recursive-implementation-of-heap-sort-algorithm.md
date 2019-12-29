@@ -1,6 +1,6 @@
 ---
 title: Recursive implementation of Heap sort algorithm
-date: 2010-07-11 12:00:00
+date: 2010-07-11
 categories:
   - programming
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Tuning Ubuntu Linux 9.04
-date: 2009-07-04 12:00:00
+date: 2009-07-04
 categories:
   - system administration
 tags:

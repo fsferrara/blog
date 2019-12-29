@@ -1,6 +1,6 @@
 ---
 title: Multidimensional Arrays in C
-date: 2009-07-03 12:00:00
+date: 2009-07-03
 categories:
   - programming
 tags:

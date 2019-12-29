@@ -1,6 +1,6 @@
 ---
 title: Running containers with Docker
-date: 2015-04-03 12:00:00
+date: 2015-04-03
 categories:
   - devops
 tags:

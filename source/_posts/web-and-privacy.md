@@ -1,6 +1,6 @@
 ---
 title: The Web and the problem of Privacy
-date: 2009-06-27 12:00:00
+date: 2009-06-27
 categories:
   - security and privacy
 tags:

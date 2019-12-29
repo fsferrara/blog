@@ -1,6 +1,6 @@
 ---
 title: Installation guide of Windows Server 2003
-date: 2009-06-20 12:00:00
+date: 2009-06-20
 categories:
   - system administration
 tags:

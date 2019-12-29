@@ -1,6 +1,6 @@
 ---
 title: C implementation of Heap sort algorithm
-date: 2010-07-10 12:00:00
+date: 2010-07-10
 categories:
   - programming
 tags:

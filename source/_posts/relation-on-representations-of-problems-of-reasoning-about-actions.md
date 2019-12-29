@@ -1,6 +1,6 @@
 ---
 title: Relation - On Representations of Problems of Reasoning about Actions
-date: 2007-09-20 12:00:00
+date: 2007-09-20
 categories:
   - history
 tags:

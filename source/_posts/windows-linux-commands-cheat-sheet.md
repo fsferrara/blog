@@ -1,6 +1,6 @@
 ---
 title: Windows-Linux commands cheat-sheet
-date: 2009-07-01 12:00:00
+date: 2009-07-01
 categories:
   - system administration
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Principali caratteristiche di un sistema Linux con kernel aggiornato alla versione 2.6.X
-date: 2006-11-17 12:00:00
+date: 2006-11-17
 categories:
   - talks
 tags:
