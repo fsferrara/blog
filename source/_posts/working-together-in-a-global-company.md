@@ -52,13 +52,13 @@ Keep in mind people can’t see you.
 
 That's why I start my day by writing this in my team's chat channel:
 
-{% img center /images/blog/communicate-your-status-1.png 'status communication example 1' %}
+{% img center /images/blog/communicate-your-status-1.png 'say hello when the day starts' %}
 
 I write that message independently if I am in the office or working from home. In this way, the entire team knows the time when I start to work.
 
 Another similar example , is the following:
 
-{% img center /images/blog/communicate-your-status-2.png 'status communication example 2' %}
+{% img center /images/blog/communicate-your-status-2.png 'keep the team posted about your status' %}
 
 Giving an acknowledge that you read the message and you are working on it has two advantages:
 1. the requester know the message was received,
@@ -97,3 +97,9 @@ My suggestion is to take advantage of any team-building opportunities. For examp
 ## No. 8 - Say Thank You
 
 If someone helps me in some way, then I use mentions in order to highlight it and give him/her credit. It always feels good to receive thanks and this will make future collaborations easier.
+
+## Slides
+
+The slides deck is available for download with the takeaways.
+[<i class="fa fa-download" aria-hidden="true"></i> Working Together in a Global Company](/downloads/talks/working-together-in-a-global-company.pdf)
+Thank you!
