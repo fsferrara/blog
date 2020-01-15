@@ -6,7 +6,7 @@ categories:
 tags:
   - global-worker
 ---
-I still remember when I joined Hotels.com technology team and how much excited I was to start such a new challenge. Since the very early days, I noticed that working in a global company is quite different from working in the same building. That is obvious, I know, but it wasn’t easy to get used to the new way of working.
+I still remember when I joined the Hotels.com technology team and how excited I was to start such a new challenge. Since the very early days, I noticed that working in a global company is quite different from working in the same building. That is obvious, I know, but it wasn’t easy to get used to the new way of working.
 
 I missed getting in touch with new teammates, and sometimes felt isolated from others and had the feeling of being a *remote worker*. Later on, only when I started working from home for 2 days per week, I realized that working in a *global team* has a lot in common with the *remote work*.
 
@@ -18,15 +18,15 @@ In this article, I will list __my personal eight rules__ that allowed me to coll
 
 ## No. 1 - Know Every Collaboration Tool
 
-Get familiar with the standard company collaboration tools for **chat**, **wiki**, **ticketing** and **video-conferencing**. They are now my best friends in day-to-day work. The _virtual technology_ is the key that allows working together from different locations.
+Get familiar with the standard company collaboration tools for **chat**, **wiki**, **ticketing**, and **video-conferencing**. They are now my best friends in day-to-day work. The _virtual technology_ is the key that allows working together from different locations.
 
-But there's more! I like to create _virtual whiteboards_ using Google Drawings, _share files_ with Dropbox, and collaborate on _documents_ with any modern documents suite. Based on the team needs, it is important to pick the right tools to work together.
+But there's more! I like to create _virtual whiteboards_ using Google Drawings, _share files_ with Dropbox, and collaborate on _documents_ with any modern documents suite. Based on the team's needs, it is important to pick the right tools to work together.
 
 As a good practice, I also have backup tools for chat and video-conferencing: in the case one of them doesn't work for some reason, don't waste time, just move to the next one.
 
 ## No. 2 - Communicate Asynchronously
 
-It is not recommended to chase people and ping them in person. Having quick 1:1 chat in the office would exclude those who are working from home or from another location. In a global environment, the most effective way to communicate is asynchronous.
+It is not recommended to chase people and ping them in person. Having a quick 1:1 chat in the office would exclude those who are working from home or from another location. In a global environment, the most effective way to communicate is asynchronous.
 
 But please, stop writing tons of email! Start using issue mentions and chat tools, since Chat and Ticketing tools are way better! Also, tickets are public and can be read from the entire team and whoever is interested. For this reason, it is extremely important to properly use those tools even if the message you are communicating is meant for someone that is sitting next to you.
 
@@ -56,13 +56,13 @@ That's why I start my day by writing this in my team's chat channel:
 
 I write that message independently if I am in the office or working from home. In this way, the entire team knows the time when I start to work.
 
-Another similar example , is the following:
+Another similar example, is the following:
 
 {% img center /images/blog/communicate-your-status-2.png 'keep the team posted about your status' %}
 
 Giving an acknowledge that you read the message and you are working on it has two advantages:
 1. the requester know the message was received,
-2. and the team know that someone is handling that request.
+2. and the team knows that someone is handling that request.
 
 In general, make it clear for everyone on what you are working on. Do it using the tool that is most appropriate for your team.
 For example, I do this by assigning to me the ticket in progress and by updating it in a regular way.
@@ -73,7 +73,7 @@ Side note. If you are a 100% remote worker, it is good to communicate your statu
 
 When collaborating across locations, it is important to plan the next actions.
 
-An example would be during the team's daily stand-up. During such a meeting, do not focus too much about the past (i.e. what you have done the previous day), but use the meetings to plan the future.
+An example would be during the team's daily stand-up. During such a meeting, do not focus too much on the past (i.e. what you have done the previous day), but use the meetings to plan the future.
 Sharing a plan will increase the chances to work together even if someone is not working in the same place.
 
 ## No. 6 - Do Be Seen
