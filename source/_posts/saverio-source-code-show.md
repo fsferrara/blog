@@ -1,6 +1,6 @@
 ---
 title: Saverio's Source Code channel on Twitch
-date: 2013-11-22
+date: 2020-03-08
 categories:
   - programming
 tags:
@@ -10,11 +10,13 @@ tags:
   - gaming
   - twitch
 ---
-Do you have fun while programming? Maybe you do think it is quite strange... Well, it's not! Just think of [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), that is defined a "mind sport". An example is [CodeWars](https://www.codewars.com/). It provides a large collection of coding challenges submitted and edited by their own community.
-An example of a mixture of
-https://www.codingame.com/
+Do you have fun while programming? Maybe you do think it is quite strange... Well, it's not! Just think of [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), that is defined as _"mind sport"_. An example is [Code Wars](https://www.codewars.com/), a website that provides a large collection of coding challenges submitted and edited by their the community. But it is not the only one, there are a lot of [other examples](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/).
 
+<!--more-->
 
-**Saverio's Source Code** channel on [Twitch](https://www.twitch.tv/fsferrara) has been created to acquire and share knowledge with others who may be interested.
-Maybe you'd like to know [what are we doing now](https://github.com/orgs/saverio-source-code/projects/1).
-If you would like to propose a topic or project, please [get in touch](/about/)!
+A mixture of code challenge and gaming is [Coding Game](https://www.codingame.com/). Here it is clear that coding can be a playful activity.  
+On the other hand, there is [Twitch](https://www.twitch.tv/), the world's leading live streaming platform for gamers and the things we love. With Twitch it is possible to watch and chat in real-time with millions of other fans from around the world.
+
+As a result, here it is [Saverio's Source Code twitch channel](https://www.twitch.tv/fsferrara). It has been created to acquire and share knowledge with others who may be interested while enjoying software programing.
+
+If you like the idea, then maybe you're interested in [knowing more](/show/).
