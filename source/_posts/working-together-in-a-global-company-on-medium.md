@@ -4,15 +4,18 @@ date: 2019-05-04
 categories:
   - thoughts
 tags:
-  - remote-working global-workforce distributed-teams
+  - remote-working
+  - global-workforce
+  - distributed-teams
+  - collaboration
 ---
-I still remember when I joined the Hotels.com technology team and how excited I was to start such a new challenge. Since the very early days, I noticed that working in a global company is quite different from working in the same building. That is obvious, I know, but it wasn’t easy to get used to the new way of working.
+I still remember when I joined the Hotels.com™ (part of Expedia Group™) technology team and how excited I was to start such a new challenge. Since the very early days, I noticed that working in a global company is quite different from working in the same building. That is obvious, I know, but it wasn’t easy to get used to the new way of working.
 
 I missed getting in touch with new teammates, and sometimes felt isolated from others and had the feeling of being a *remote worker*. Later on, only when I started working from home for 2 days per week, I realized that working in a *global team* has a lot in common with the *remote work*.
 
 <!--more-->
 
-In this story, I will list __my personal seven rules__ that allowed me to collaborate effectively with colleagues scattered across the world.
+[The story available on Medium](https://medium.com/expedia-group-tech/working-together-in-a-global-company-d242cee6f440) tells my journey, from working in the same room with my team to collaborating effectively in a global company. I have always been interested in remote work and I have collected for you _my 7 tips_ that can help those who start working in a global workforce.
 
 The slides deck is available for download.
 [<i class="fa fa-download" aria-hidden="true"></i> Working Together in a Global Company](/downloads/talks/working-together-in-a-global-company.pdf)
