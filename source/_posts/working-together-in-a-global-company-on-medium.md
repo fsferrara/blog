@@ -2,7 +2,7 @@
 title: Working Together in a Global Company - Slide Deck
 date: 2019-05-04
 categories:
-  - thoughts
+  - writing
 tags:
   - remote-working
   - global-workforce
@@ -15,7 +15,7 @@ I missed getting in touch with new teammates, and sometimes felt isolated from
 
 <!--more-->
 
-[The story available on Medium](https://medium.com/expedia-group-tech/working-together-in-a-global-company-d242cee6f440) tells my journey, from working in the same room with my team to collaborating effectively in a global company. I have always been interested in remote work and I have collected for you _my 7 tips_ that can help those who start working in a global workforce.
+[The story available on Medium](https://medium.com/expedia-group-tech/working-together-in-a-global-company-d242cee6f440?source=friends_link&sk=e16f366ae77168ab10a6e660c2995e82) tells my journey, from working in the same room with my team to collaborating effectively in a global company. I have always been interested in remote work and I have collected for you _my 7 tips_ that can help those who start working in a global workforce.
 
 The slides deck is available for download.
 [<i class="fa fa-download" aria-hidden="true"></i> Working Together in a Global Company](/downloads/talks/working-together-in-a-global-company.pdf)
