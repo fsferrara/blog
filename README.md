@@ -77,7 +77,13 @@ deploy:
 
 where `https://github.com/fsferrara/fsferrara.github.io.git` is the repository behind [my blog](https://fsferrara.github.io/).
 
-To issue a deploy use `hexo generate && hexo deploy`.
+To issue a deploy use: 
+
+```
+nvm use
+npm run build
+npm run deploy
+```
 
 ## Synching the theme
 
