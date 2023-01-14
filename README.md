@@ -31,6 +31,8 @@ At the moment, the only submodules is the [theme](https://github.com/fsferrara/h
 ### Installing Hexo
 
 To install Hexo just type `npm install hexo-cli -g`, and then you'll have the hexo cli.
+In alternative, you can run `npm install` and add `./node_modules/.bin` to your `PATH` to use the local executable.
+
 Here is the usage help for hexo **3.7.1**.
 
 ```
