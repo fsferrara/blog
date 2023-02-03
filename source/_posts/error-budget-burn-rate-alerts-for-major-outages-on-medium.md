@@ -16,7 +16,7 @@ How fast can we consume the error budget? This question was not easy to answer f
 
 <!--more-->
 
-Ops... nothing here! [The story is available on Medium](https://medium.com/...).
+Ops... nothing here! [The story is available on Medium](https://medium.com/@fsferrara/error-budget-burn-rate-alerts-for-major-outages-3e999f8a200d?source=friends_link&sk=117fc8435eeb3deed664c177efcf697e).
 
 Other resources available:
 
