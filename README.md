@@ -17,53 +17,24 @@ So, the procedure is like: get the hexo blog source locally, generate the static
 
 ### Cloning the blog sources
 
-This repository contains the blog sources.
-*Be carefull, it contains a submodule!*
-Remember to clone with:
+This repository contains the blog sources. Clone with:
 
 ```
-git clone --recursive git@github.com:fsferrara/blog.git
+git clone git@github.com:fsferrara/blog.git
+cd blog
 ```
+*Be carefull, you need to clone the theme as well!*
 
-At the moment, the only submodules is the [theme](https://github.com/fsferrara/hexo-theme-next).
+Clone the [theme](https://github.com/fsferrara/hexo-theme-next):
 
+```
+git clone git@github.com-fsferrara:fsferrara/hexo-theme-next.git themes/next
+```
 
 ### Installing Hexo
 
 To install Hexo just type `npm install hexo-cli -g`, and then you'll have the hexo cli.
 In alternative, you can run `npm install` and add `./node_modules/.bin` to your `PATH` to use the local executable.
-
-Here is the usage help for hexo **3.7.1**.
-
-```
-Usage: hexo <command>
-
-Commands:
-  clean     Remove generated files and cache.
-  config    Get or set configurations.
-  deploy    Deploy your website.
-  generate  Generate static files.
-  help      Get help on a command.
-  init      Create a new Hexo folder.
-  list      List the information of the site
-  migrate   Migrate your site from other system to Hexo.
-  new       Create a new post.
-  publish   Moves a draft post from _drafts to _posts folder.
-  render    Render files with renderer plugins.
-  server    Start the server.
-  version   Display version information.
-
-Global Options:
-  --config  Specify config file instead of using _config.yml
-  --cwd     Specify the CWD
-  --debug   Display all verbose messages in the terminal
-  --draft   Display draft posts
-  --safe    Disable all plugins and scripts
-  --silent  Hide output on console
-
-For more help, you can use 'hexo help [command]' for the detailed information
-or you can check the docs: http://hexo.io/docs/
-```
 
 ## Deploy to github pages
 
@@ -85,17 +56,4 @@ To issue a deploy use:
 nvm use
 npm run build
 npm run deploy
-```
-
-## Synching the theme
-
-cd into `themes/next` folder and then:
-
-```
-git checkout master
-git pull
-git remote add upstream https://github.com/theme-next/hexo-theme-next.git
-git fetch upstream
-git merge upstream/master
-git push
 ```
