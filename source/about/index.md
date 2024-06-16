@@ -9,10 +9,10 @@ comments: false
 
 **Want to know more?**
 
-<i class="fa fa-file" aria-hidden="true"></i> Résumé [[english]](/timeline/) or [[italian]](/downloads/fsferrara-cv-it.pdf)  
-<i class="fa fa-github" aria-hidden="true"></i> [https://github.com/fsferrara](https://github.com/fsferrara)
-<i class="fa fa-twitter" aria-hidden="true"></i> [https://twitter.com/fsferrara](https://twitter.com/fsferrara)
-<i class="fa fa-linkedin" aria-hidden="true"></i> [https://www.linkedin.com/in/fsferrara](https://www.linkedin.com/in/fsferrara)
+<i class="fa fa-file" aria-hidden="true"></i> Résumé [[english]](/timeline/) or [[italian]](/downloads/fsferrara-cv-it.pdf)
+<i class="fab fa-github" aria-hidden="true"></i> [https://github.com/fsferrara](https://github.com/fsferrara)
+<i class="fab fa-twitter" aria-hidden="true"></i> [https://twitter.com/fsferrara](https://twitter.com/fsferrara)
+<i class="fab fa-linkedin" aria-hidden="true"></i> [https://www.linkedin.com/in/fsferrara](https://www.linkedin.com/in/fsferrara)
 <i class="fa fa-map-marker" aria-hidden="true"></i> Rome, Italy  
 
 <i class="fa fa-gavel" aria-hidden="true"></i> [Cookie](/cookie-policy/) and [Terms](/terms-and-conditions/)
