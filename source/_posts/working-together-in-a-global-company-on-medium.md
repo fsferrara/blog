@@ -20,6 +20,8 @@ I missed getting in touch with new teammates, and sometimes felt isolated from
 Other resources available:
 
 [<i class="fa fa-download" aria-hidden="true"></i> Slide Deck](/downloads/talks/working-together-in-a-global-company.pdf) is available for download.
-[<i class="fa fa-youtube" aria-hidden="true"></i> Presentation](/downloads/talks/working-together-in-a-global-company.pdf) that can be used for a "brown bag" session.
+<!--
+[<i class="fab fa-youtube" aria-hidden="true"></i> Presentation](https://www.youtube.com/watch?v=ebPIWp0NIOk) that can be used for a "brown bag" session.
+-->
 
 Thank you!
